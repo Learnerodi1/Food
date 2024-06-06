@@ -19,6 +19,7 @@
 }
 main, footer, body>article {
     width: 100%;
+    background-color:var(--first-color);
 }
 a{
     text-decoration: none;
