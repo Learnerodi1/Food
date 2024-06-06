@@ -17,10 +17,10 @@
     padding: 0;
     margin: 0;
 }
-main, footer, body>article {
+/* main, footer, body>article {
+    background-color: var(--first-color);
     width: 100%;
-    background-color:var(--first-color);
-}
+} */
 a{
     text-decoration: none;
     color: inherit;
