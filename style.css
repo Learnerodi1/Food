@@ -253,7 +253,6 @@ header nav ul #men label .fa{
     background-color: var(--fourth-color);
     color: var(--sixth-color);
     background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.8)) , url(images/rumman-amin-LNn6O_Mt730-unsplash.jpg);
-    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     padding-top: 150px;
@@ -549,7 +548,6 @@ header nav ul #men label .fa{
     background-color: var(--fourth-color);
     color: var(--sixth-color);
     background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.8)) , url(images/dan-gold-4_jhDO54BYg-unsplash.jpg);
-    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     padding-top: 150px;
